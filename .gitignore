@@ -209,3 +209,4 @@ __marimo__/
 # scraped yfinance data
 yf_dumps/
 data/
+Test/
