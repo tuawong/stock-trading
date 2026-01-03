@@ -1,0 +1,861 @@
+column_name,num_df_present,num_row_present,num_row_null,load_key
+date,500,3131,0,quarterly_balance_sheet
+Ordinary Shares Number,500,3131,631,quarterly_balance_sheet
+Share Issued,500,3131,631,quarterly_balance_sheet
+Invested Capital,500,3131,631,quarterly_balance_sheet
+Tangible Book Value,500,3131,631,quarterly_balance_sheet
+Total Equity Gross Minority Interest,500,3131,631,quarterly_balance_sheet
+Total Capitalization,500,3131,631,quarterly_balance_sheet
+Net Tangible Assets,500,3131,631,quarterly_balance_sheet
+Common Stock Equity,500,3131,631,quarterly_balance_sheet
+Stockholders Equity,500,3131,631,quarterly_balance_sheet
+Total Liabilities Net Minority Interest,500,3131,631,quarterly_balance_sheet
+Common Stock,500,3131,631,quarterly_balance_sheet
+Capital Stock,500,3131,631,quarterly_balance_sheet
+ticker,500,3131,0,quarterly_balance_sheet
+Cash And Cash Equivalents,500,3131,631,quarterly_balance_sheet
+statement_type,500,3131,0,quarterly_balance_sheet
+Total Assets,500,3131,631,quarterly_balance_sheet
+Total Debt,497,3113,636,quarterly_balance_sheet
+Long Term Debt And Capital Lease Obligation,496,3106,638,quarterly_balance_sheet
+Retained Earnings,495,3098,623,quarterly_balance_sheet
+Receivables,492,3086,647,quarterly_balance_sheet
+Gains Losses Not Affecting Retained Earnings,487,3055,620,quarterly_balance_sheet
+Net PPE,485,3039,631,quarterly_balance_sheet
+Other Equity Adjustments,484,3037,623,quarterly_balance_sheet
+Payables And Accrued Expenses,481,3022,617,quarterly_balance_sheet
+Accounts Receivable,477,3001,636,quarterly_balance_sheet
+Cash Cash Equivalents And Short Term Investments,476,2992,612,quarterly_balance_sheet
+Long Term Debt,475,2975,621,quarterly_balance_sheet
+Payables,475,2985,661,quarterly_balance_sheet
+Accounts Payable,468,2941,659,quarterly_balance_sheet
+Gross PPE,467,2935,873,quarterly_balance_sheet
+Current Debt And Capital Lease Obligation,466,2925,679,quarterly_balance_sheet
+Goodwill And Other Intangible Assets,456,2864,621,quarterly_balance_sheet
+Total Non Current Assets,455,2866,595,quarterly_balance_sheet
+Working Capital,455,2866,595,quarterly_balance_sheet
+Current Liabilities,455,2866,595,quarterly_balance_sheet
+Total Non Current Liabilities Net Minority Interest,455,2866,595,quarterly_balance_sheet
+Current Assets,455,2866,595,quarterly_balance_sheet
+Other Non Current Assets,450,2838,599,quarterly_balance_sheet
+Accumulated Depreciation,447,2813,1274,quarterly_balance_sheet
+Goodwill,444,2788,638,quarterly_balance_sheet
+Additional Paid In Capital,443,2768,569,quarterly_balance_sheet
+Net Debt,439,2748,645,quarterly_balance_sheet
+Current Debt,437,2743,745,quarterly_balance_sheet
+Other Non Current Liabilities,437,2759,595,quarterly_balance_sheet
+Other Current Assets,419,2646,568,quarterly_balance_sheet
+Other Intangible Assets,406,2549,638,quarterly_balance_sheet
+Current Accrued Expenses,399,2514,672,quarterly_balance_sheet
+Other Properties,389,2449,811,quarterly_balance_sheet
+Non Current Deferred Liabilities,373,2352,582,quarterly_balance_sheet
+Capital Lease Obligations,367,2309,707,quarterly_balance_sheet
+Machinery Furniture Equipment,365,2285,1501,quarterly_balance_sheet
+Properties,360,2264,1442,quarterly_balance_sheet
+Treasury Shares Number,353,2200,633,quarterly_balance_sheet
+Other Current Borrowings,349,2211,847,quarterly_balance_sheet
+Long Term Capital Lease Obligation,341,2151,640,quarterly_balance_sheet
+Inventory,337,2124,462,quarterly_balance_sheet
+Non Current Deferred Taxes Liabilities,332,2094,516,quarterly_balance_sheet
+Land And Improvements,328,2063,1379,quarterly_balance_sheet
+Total Tax Payable,321,2023,706,quarterly_balance_sheet
+Gross Accounts Receivable,318,2000,665,quarterly_balance_sheet
+Allowance For Doubtful Accounts Receivable,315,1980,663,quarterly_balance_sheet
+Treasury Stock,312,1926,393,quarterly_balance_sheet
+Buildings And Improvements,308,1941,1310,quarterly_balance_sheet
+Construction In Progress,306,1930,1211,quarterly_balance_sheet
+Investments And Advances,304,1903,474,quarterly_balance_sheet
+Other Current Liabilities,298,1892,670,quarterly_balance_sheet
+Minority Interest,297,1861,412,quarterly_balance_sheet
+Current Deferred Liabilities,276,1742,550,quarterly_balance_sheet
+Preferred Stock,274,1719,482,quarterly_balance_sheet
+Current Deferred Revenue,272,1715,540,quarterly_balance_sheet
+Current Capital Lease Obligation,266,1679,582,quarterly_balance_sheet
+Non Current Deferred Assets,260,1652,467,quarterly_balance_sheet
+Other Short Term Investments,233,1489,409,quarterly_balance_sheet
+Pensionand Other Post Retirement Benefit Plans Current,227,1440,576,quarterly_balance_sheet
+Non Current Deferred Taxes Assets,226,1433,396,quarterly_balance_sheet
+Finished Goods,222,1386,292,quarterly_balance_sheet
+Other Receivables,210,1321,439,quarterly_balance_sheet
+Income Tax Payable,205,1298,440,quarterly_balance_sheet
+Raw Materials,203,1272,274,quarterly_balance_sheet
+Employee Benefits,192,1203,381,quarterly_balance_sheet
+Long Term Equity Investment,171,1065,319,quarterly_balance_sheet
+Interest Payable,167,1063,497,quarterly_balance_sheet
+Work In Process,160,1011,230,quarterly_balance_sheet
+Prepaid Assets,159,1013,370,quarterly_balance_sheet
+Non Current Pension And Other Postretirement Benefit Plans,150,946,296,quarterly_balance_sheet
+Leases,144,920,618,quarterly_balance_sheet
+Tradeand Other Payables Non Current,130,834,334,quarterly_balance_sheet
+Restricted Cash,123,789,217,quarterly_balance_sheet
+Non Current Deferred Revenue,121,762,248,quarterly_balance_sheet
+Assets Held For Sale Current,118,761,370,quarterly_balance_sheet
+Taxes Receivable,111,716,263,quarterly_balance_sheet
+Dividends Payable,110,684,251,quarterly_balance_sheet
+Available For Sale Securities,106,672,236,quarterly_balance_sheet
+Investmentin Financial Assets,103,663,251,quarterly_balance_sheet
+Commercial Paper,93,579,225,quarterly_balance_sheet
+Cash Financial,84,532,195,quarterly_balance_sheet
+Other Payable,84,524,184,quarterly_balance_sheet
+Long Term Provisions,83,522,180,quarterly_balance_sheet
+Current Provisions,80,512,222,quarterly_balance_sheet
+Line Of Credit,77,483,203,quarterly_balance_sheet
+Non Current Accounts Receivable,74,468,180,quarterly_balance_sheet
+Other Investments,73,462,178,quarterly_balance_sheet
+Derivative Product Liabilities,65,418,171,quarterly_balance_sheet
+Defined Pension Benefit,64,407,177,quarterly_balance_sheet
+Hedging Assets Current,59,380,160,quarterly_balance_sheet
+Cash Equivalents,58,373,150,quarterly_balance_sheet
+Financial Assets,55,353,131,quarterly_balance_sheet
+Preferred Stock Equity,55,332,68,quarterly_balance_sheet
+Other Inventories,53,346,161,quarterly_balance_sheet
+Current Notes Payable,51,323,150,quarterly_balance_sheet
+Receivables Adjustments Allowances,48,308,136,quarterly_balance_sheet
+Preferred Shares Number,45,276,73,quarterly_balance_sheet
+Held To Maturity Securities,42,257,69,quarterly_balance_sheet
+Current Deferred Assets,39,247,87,quarterly_balance_sheet
+Inventories Adjustments Allowances,38,241,70,quarterly_balance_sheet
+Non Current Prepaid Assets,37,238,101,quarterly_balance_sheet
+Other Equity Interest,35,226,99,quarterly_balance_sheet
+Liabilities Heldfor Sale Non Current,34,222,116,quarterly_balance_sheet
+Non Current Accrued Expenses,31,195,82,quarterly_balance_sheet
+Investments In Other Ventures Under Equity Method,29,182,70,quarterly_balance_sheet
+Non Current Note Receivables,29,182,88,quarterly_balance_sheet
+Investment Properties,29,175,35,quarterly_balance_sheet
+Foreign Currency Translation Adjustments,27,172,90,quarterly_balance_sheet
+Loans Receivable,24,151,41,quarterly_balance_sheet
+Cash Cash Equivalents And Federal Funds Sold,24,139,19,quarterly_balance_sheet
+Notes Receivable,24,146,61,quarterly_balance_sheet
+Minimum Pension Liabilities,22,135,61,quarterly_balance_sheet
+Duefrom Related Parties Current,21,136,46,quarterly_balance_sheet
+Investmentsin Joint Venturesat Cost,19,118,56,quarterly_balance_sheet
+Trading Securities,19,114,34,quarterly_balance_sheet
+Dueto Related Parties Current,19,122,44,quarterly_balance_sheet
+Preferred Securities Outside Stock Equity,13,84,28,quarterly_balance_sheet
+Accrued Interest Receivable,12,83,33,quarterly_balance_sheet
+Unrealized Gain Loss,12,75,23,quarterly_balance_sheet
+Investmentsin Associatesat Cost,11,72,41,quarterly_balance_sheet
+Investmentsin Subsidiariesat Cost,6,38,14,quarterly_balance_sheet
+Dueto Related Parties Non Current,3,18,7,quarterly_balance_sheet
+Financial Assets Designatedas Fair Value Through Profitor Loss Total,2,14,8,quarterly_balance_sheet
+Current Deferred Taxes Assets,2,12,2,quarterly_balance_sheet
+Duefrom Related Parties Non Current,1,7,6,quarterly_balance_sheet
+date,500,2449,0,balance_sheet
+Ordinary Shares Number,500,2449,450,balance_sheet
+Share Issued,500,2449,450,balance_sheet
+Tangible Book Value,500,2449,450,balance_sheet
+Total Debt,500,2449,460,balance_sheet
+Invested Capital,500,2449,450,balance_sheet
+Total Capitalization,500,2449,450,balance_sheet
+Common Stock Equity,500,2449,450,balance_sheet
+Net Tangible Assets,500,2449,450,balance_sheet
+Stockholders Equity,500,2449,450,balance_sheet
+Total Equity Gross Minority Interest,500,2449,450,balance_sheet
+Cash And Cash Equivalents,500,2449,451,balance_sheet
+ticker,500,2449,0,balance_sheet
+Total Assets,500,2449,450,balance_sheet
+Total Liabilities Net Minority Interest,500,2449,450,balance_sheet
+Common Stock,500,2449,454,balance_sheet
+Capital Stock,500,2449,454,balance_sheet
+statement_type,500,2449,0,balance_sheet
+Long Term Debt And Capital Lease Obligation,499,2444,460,balance_sheet
+Retained Earnings,499,2444,459,balance_sheet
+Receivables,493,2414,446,balance_sheet
+Payables And Accrued Expenses,490,2401,450,balance_sheet
+Gains Losses Not Affecting Retained Earnings,490,2400,446,balance_sheet
+Net PPE,488,2390,446,balance_sheet
+Other Equity Adjustments,484,2370,449,balance_sheet
+Accounts Receivable,482,2361,449,balance_sheet
+Long Term Debt,480,2350,457,balance_sheet
+Payables,480,2351,440,balance_sheet
+Cash Cash Equivalents And Short Term Investments,476,2332,430,balance_sheet
+Accounts Payable,474,2321,440,balance_sheet
+Current Debt And Capital Lease Obligation,473,2317,501,balance_sheet
+Gross PPE,470,2302,430,balance_sheet
+Goodwill And Other Intangible Assets,461,2258,431,balance_sheet
+Current Liabilities,454,2225,410,balance_sheet
+Total Non Current Liabilities Net Minority Interest,454,2225,410,balance_sheet
+Total Non Current Assets,454,2225,410,balance_sheet
+Working Capital,454,2225,410,balance_sheet
+Current Assets,453,2221,410,balance_sheet
+Accumulated Depreciation,450,2205,417,balance_sheet
+Current Debt,449,2200,596,balance_sheet
+Other Non Current Assets,447,2190,409,balance_sheet
+Goodwill,445,2179,411,balance_sheet
+Additional Paid In Capital,445,2180,422,balance_sheet
+Other Non Current Liabilities,439,2150,416,balance_sheet
+Net Debt,431,2113,442,balance_sheet
+Other Intangible Assets,425,2082,435,balance_sheet
+Other Current Assets,417,2044,390,balance_sheet
+Current Accrued Expenses,414,2030,410,balance_sheet
+Other Properties,399,1954,399,balance_sheet
+Non Current Deferred Liabilities,396,1941,405,balance_sheet
+Machinery Furniture Equipment,387,1896,395,balance_sheet
+Capital Lease Obligations,386,1893,382,balance_sheet
+Treasury Shares Number,382,1868,574,balance_sheet
+Other Current Borrowings,371,1821,574,balance_sheet
+Long Term Capital Lease Obligation,364,1784,370,balance_sheet
+Properties,363,1780,335,balance_sheet
+Non Current Deferred Taxes Liabilities,355,1739,376,balance_sheet
+Inventory,339,1657,311,balance_sheet
+Land And Improvements,335,1644,318,balance_sheet
+Total Tax Payable,334,1636,354,balance_sheet
+Investments And Advances,324,1587,346,balance_sheet
+Gross Accounts Receivable,323,1583,353,balance_sheet
+Allowance For Doubtful Accounts Receivable,320,1569,352,balance_sheet
+Other Current Liabilities,320,1568,442,balance_sheet
+Buildings And Improvements,317,1554,308,balance_sheet
+Minority Interest,315,1547,329,balance_sheet
+Treasury Stock,315,1539,310,balance_sheet
+Prepaid Assets,312,1529,584,balance_sheet
+Construction In Progress,310,1524,296,balance_sheet
+Preferred Stock,291,1424,310,balance_sheet
+Current Deferred Liabilities,288,1405,301,balance_sheet
+Current Capital Lease Obligation,285,1395,295,balance_sheet
+Current Deferred Revenue,281,1370,285,balance_sheet
+Non Current Deferred Assets,281,1382,328,balance_sheet
+Other Short Term Investments,246,1206,283,balance_sheet
+Non Current Deferred Taxes Assets,244,1199,282,balance_sheet
+Pensionand Other Post Retirement Benefit Plans Current,242,1183,254,balance_sheet
+Other Receivables,230,1125,287,balance_sheet
+Finished Goods,228,1113,223,balance_sheet
+Income Tax Payable,214,1056,253,balance_sheet
+Employee Benefits,207,1007,209,balance_sheet
+Raw Materials,205,1000,189,balance_sheet
+Long Term Equity Investment,189,930,236,balance_sheet
+Interest Payable,172,844,208,balance_sheet
+Non Current Pension And Other Postretirement Benefit Plans,165,804,170,balance_sheet
+Work In Process,163,798,157,balance_sheet
+Assets Held For Sale Current,157,770,343,balance_sheet
+Leases,151,744,151,balance_sheet
+Restricted Cash,148,729,206,balance_sheet
+Tradeand Other Payables Non Current,146,707,161,balance_sheet
+Non Current Deferred Revenue,140,679,165,balance_sheet
+Taxes Receivable,119,578,136,balance_sheet
+Dividends Payable,111,545,122,balance_sheet
+Preferred Securities Outside Stock Equity,108,537,320,balance_sheet
+Available For Sale Securities,107,525,156,balance_sheet
+Other Payable,107,520,152,balance_sheet
+Commercial Paper,106,518,177,balance_sheet
+Investmentin Financial Assets,104,512,147,balance_sheet
+Current Provisions,101,497,147,balance_sheet
+Line Of Credit,97,481,169,balance_sheet
+Other Investments,92,451,143,balance_sheet
+Long Term Provisions,92,449,105,balance_sheet
+Cash Financial,84,413,126,balance_sheet
+Derivative Product Liabilities,82,401,123,balance_sheet
+Non Current Accounts Receivable,82,401,137,balance_sheet
+Preferred Stock Equity,73,360,115,balance_sheet
+Defined Pension Benefit,73,355,87,balance_sheet
+Hedging Assets Current,64,313,75,balance_sheet
+Preferred Shares Number,63,312,108,balance_sheet
+Current Notes Payable,63,308,123,balance_sheet
+Financial Assets,62,302,81,balance_sheet
+Liabilities Heldfor Sale Non Current,60,297,158,balance_sheet
+Cash Equivalents,58,287,83,balance_sheet
+Receivables Adjustments Allowances,56,269,71,balance_sheet
+Other Inventories,54,263,88,balance_sheet
+Investmentsin Associatesat Cost,52,258,127,balance_sheet
+Non Current Prepaid Assets,51,248,74,balance_sheet
+Current Deferred Assets,47,229,68,balance_sheet
+Other Equity Interest,47,230,88,balance_sheet
+Held To Maturity Securities,45,221,63,balance_sheet
+Inventories Adjustments Allowances,43,209,59,balance_sheet
+Non Current Accrued Expenses,41,202,65,balance_sheet
+Investments In Other Ventures Under Equity Method,35,173,59,balance_sheet
+Foreign Currency Translation Adjustments,35,172,56,balance_sheet
+Duefrom Related Parties Current,33,160,60,balance_sheet
+Minimum Pension Liabilities,33,162,54,balance_sheet
+Non Current Note Receivables,31,155,50,balance_sheet
+Investment Properties,29,144,30,balance_sheet
+Dueto Related Parties Current,27,128,37,balance_sheet
+Notes Receivable,27,133,43,balance_sheet
+Loans Receivable,25,124,33,balance_sheet
+Cash Cash Equivalents And Federal Funds Sold,25,122,25,balance_sheet
+Investmentsin Joint Venturesat Cost,22,107,34,balance_sheet
+Trading Securities,21,103,30,balance_sheet
+Unrealized Gain Loss,18,90,32,balance_sheet
+Accrued Interest Receivable,13,65,21,balance_sheet
+Investmentsin Subsidiariesat Cost,10,50,22,balance_sheet
+Dueto Related Parties Non Current,5,24,8,balance_sheet
+Current Deferred Taxes Liabilities,3,15,7,balance_sheet
+Current Deferred Taxes Assets,3,15,6,balance_sheet
+Financial Assets Designatedas Fair Value Through Profitor Loss Total,2,10,4,balance_sheet
+Duefrom Related Parties Non Current,2,10,3,balance_sheet
+Restricted Common Stock,1,5,4,balance_sheet
+Total Partnership Capital,1,4,2,balance_sheet
+Limited Partnership Capital,1,4,2,balance_sheet
+date,500,2460,0,cash_flow
+Free Cash Flow,500,2460,460,cash_flow
+Changes In Cash,500,2460,462,cash_flow
+Beginning Cash Position,500,2460,460,cash_flow
+End Cash Position,500,2460,460,cash_flow
+Financing Cash Flow,500,2460,460,cash_flow
+Investing Cash Flow,500,2460,460,cash_flow
+Operating Cash Flow,500,2460,460,cash_flow
+statement_type,500,2460,0,cash_flow
+ticker,500,2460,0,cash_flow
+Net Income From Continuing Operations,500,2460,460,cash_flow
+Cash Flow From Continuing Investing Activities,499,2456,460,cash_flow
+Cash Flow From Continuing Financing Activities,499,2456,460,cash_flow
+Change In Working Capital,499,2456,460,cash_flow
+Cash Flow From Continuing Operating Activities,499,2456,460,cash_flow
+Net Issuance Payments Of Debt,493,2425,463,cash_flow
+Net Long Term Debt Issuance,491,2417,476,cash_flow
+Net Common Stock Issuance,490,2411,478,cash_flow
+Net Other Financing Charges,488,2401,531,cash_flow
+Issuance Of Debt,487,2397,496,cash_flow
+Repayment Of Debt,486,2392,465,cash_flow
+Long Term Debt Payments,484,2383,473,cash_flow
+Depreciation And Amortization,481,2367,444,cash_flow
+Long Term Debt Issuance,481,2368,493,cash_flow
+Capital Expenditure,479,2359,447,cash_flow
+Depreciation Amortization Depletion,476,2342,438,cash_flow
+Change In Payables And Accrued Expense,473,2328,455,cash_flow
+Other Non Cash Items,470,2312,469,cash_flow
+Repurchase Of Capital Stock,470,2312,481,cash_flow
+Net Business Purchase And Sale,466,2292,495,cash_flow
+Common Stock Payments,462,2272,481,cash_flow
+Change In Receivables,457,2248,432,cash_flow
+Operating Gains Losses,450,2213,568,cash_flow
+Purchase Of Business,448,2203,532,cash_flow
+Deferred Tax,443,2181,429,cash_flow
+Deferred Income Tax,443,2181,429,cash_flow
+Net Other Investing Changes,436,2149,527,cash_flow
+Stock Based Compensation,419,2062,397,cash_flow
+Net Investment Purchase And Sale,415,2044,452,cash_flow
+Change In Other Working Capital,415,2046,491,cash_flow
+Cash Dividends Paid,412,2027,397,cash_flow
+Change In Payable,410,2019,426,cash_flow
+Interest Paid Supplemental Data,407,2003,406,cash_flow
+Income Tax Paid Supplemental Data,407,2004,429,cash_flow
+Change In Account Payable,396,1951,415,cash_flow
+Common Stock Dividend Paid,391,1925,430,cash_flow
+Sale Of Investment,378,1861,440,cash_flow
+Effect Of Exchange Rate Changes,371,1824,346,cash_flow
+Purchase Of Investment,361,1777,415,cash_flow
+Net PPE Purchase And Sale,359,1767,406,cash_flow
+Net Short Term Debt Issuance,351,1730,453,cash_flow
+Changes In Account Receivables,340,1676,360,cash_flow
+Change In Inventory,316,1555,297,cash_flow
+Asset Impairment Charge,306,1507,385,cash_flow
+Purchase Of PPE,298,1467,335,cash_flow
+Sale Of Business,297,1469,443,cash_flow
+Depreciation,277,1368,323,cash_flow
+Proceeds From Stock Option Exercised,266,1308,295,cash_flow
+Change In Other Current Assets,257,1266,281,cash_flow
+Issuance Of Capital Stock,247,1216,342,cash_flow
+Capital Expenditure Reported,245,1208,260,cash_flow
+Gain Loss On Investment Securities,237,1169,365,cash_flow
+Short Term Debt Payments,229,1133,398,cash_flow
+Common Stock Issuance,220,1084,301,cash_flow
+Short Term Debt Issuance,219,1080,376,cash_flow
+Amortization Cash Flow,216,1066,263,cash_flow
+Amortization Of Intangibles,215,1062,263,cash_flow
+Gain Loss On Sale Of Business,213,1050,314,cash_flow
+Change In Accrued Expense,211,1038,224,cash_flow
+Change In Other Current Liabilities,210,1038,235,cash_flow
+Sale Of PPE,188,923,245,cash_flow
+Earnings Losses From Equity Investments,185,913,244,cash_flow
+Change In Prepaid Assets,185,912,209,cash_flow
+Change In Income Tax Payable,145,711,199,cash_flow
+Change In Tax Payable,145,711,199,cash_flow
+Pension And Employee Benefit Expense,119,586,160,cash_flow
+Provisionand Write Offof Assets,116,570,144,cash_flow
+Gain Loss On Sale Of PPE,110,542,177,cash_flow
+Net Preferred Stock Issuance,88,435,139,cash_flow
+Net Intangibles Purchase And Sale,87,431,131,cash_flow
+Purchase Of Intangibles,83,412,125,cash_flow
+Dividend Received Cfo,74,364,89,cash_flow
+Preferred Stock Issuance,67,330,124,cash_flow
+Unrealized Gain Loss On Investment Securities,61,301,94,cash_flow
+Net Foreign Currency Exchange Gain Loss,59,293,76,cash_flow
+Cash From Discontinued Operating Activities,59,293,85,cash_flow
+Preferred Stock Payments,58,288,82,cash_flow
+Preferred Stock Dividend Paid,53,261,71,cash_flow
+Cash From Discontinued Investing Activities,51,253,82,cash_flow
+Dividends Received Cfi,50,246,60,cash_flow
+Other Cash Adjustment Outside Changein Cash,42,209,68,cash_flow
+Cash From Discontinued Financing Activities,40,199,72,cash_flow
+Net Investment Properties Purchase And Sale,39,193,49,cash_flow
+Amortization Of Securities,35,173,43,cash_flow
+Sale Of Investment Properties,33,164,42,cash_flow
+Purchase Of Investment Properties,31,153,36,cash_flow
+Change In Interest Payable,25,125,39,cash_flow
+Cash Flow From Discontinued Operation,16,80,34,cash_flow
+Sale Of Intangibles,14,69,29,cash_flow
+Taxes Refund Paid,10,49,15,cash_flow
+Other Cash Adjustment Inside Changein Cash,9,45,14,cash_flow
+Interest Paid Cff,7,35,19,cash_flow
+Excess Tax Benefit From Stock Based Compensation,7,35,16,cash_flow
+Depletion,6,29,6,cash_flow
+Interest Received Cfi,6,30,17,cash_flow
+Dividend Paid Cfo,3,15,8,cash_flow
+Interest Paid Cfo,2,10,2,cash_flow
+Cash Flowsfromusedin Operating Activities Direct,1,5,3,cash_flow
+Classesof Cash Payments,1,5,3,cash_flow
+Classesof Cash Receiptsfrom Operating Activities,1,5,3,cash_flow
+Paymentson Behalfof Employees,1,5,3,cash_flow
+Other Cash Paymentsfrom Operating Activities,1,5,3,cash_flow
+Other Cash Receiptsfrom Operating Activities,1,5,3,cash_flow
+date,500,3286,0,quarterly_cash_flow
+Free Cash Flow,500,3286,786,quarterly_cash_flow
+Beginning Cash Position,500,3286,786,quarterly_cash_flow
+End Cash Position,500,3286,786,quarterly_cash_flow
+Changes In Cash,500,3286,786,quarterly_cash_flow
+Financing Cash Flow,500,3286,786,quarterly_cash_flow
+statement_type,500,3286,0,quarterly_cash_flow
+ticker,500,3286,0,quarterly_cash_flow
+Investing Cash Flow,500,3286,786,quarterly_cash_flow
+Cash Flow From Continuing Investing Activities,499,3279,784,quarterly_cash_flow
+Cash Flow From Continuing Financing Activities,499,3279,784,quarterly_cash_flow
+Operating Cash Flow,499,3280,785,quarterly_cash_flow
+Net Income From Continuing Operations,494,3247,777,quarterly_cash_flow
+Cash Flow From Continuing Operating Activities,493,3240,775,quarterly_cash_flow
+Change In Working Capital,493,3241,776,quarterly_cash_flow
+Net Other Financing Charges,477,3136,857,quarterly_cash_flow
+Capital Expenditure,474,3123,757,quarterly_cash_flow
+Depreciation And Amortization,473,3109,753,quarterly_cash_flow
+Depreciation Amortization Depletion,473,3109,744,quarterly_cash_flow
+Net Issuance Payments Of Debt,472,3104,806,quarterly_cash_flow
+Net Long Term Debt Issuance,460,3024,821,quarterly_cash_flow
+Net Common Stock Issuance,458,3007,800,quarterly_cash_flow
+Repayment Of Debt,455,2991,813,quarterly_cash_flow
+Long Term Debt Payments,453,2978,844,quarterly_cash_flow
+Other Non Cash Items,449,2947,738,quarterly_cash_flow
+Issuance Of Debt,432,2838,889,quarterly_cash_flow
+Repurchase Of Capital Stock,431,2829,783,quarterly_cash_flow
+Common Stock Payments,426,2794,770,quarterly_cash_flow
+Long Term Debt Issuance,418,2743,893,quarterly_cash_flow
+Change In Payables And Accrued Expense,414,2732,665,quarterly_cash_flow
+Net Other Investing Changes,414,2720,782,quarterly_cash_flow
+Cash Dividends Paid,412,2708,665,quarterly_cash_flow
+Stock Based Compensation,405,2662,637,quarterly_cash_flow
+Change In Receivables,405,2673,663,quarterly_cash_flow
+Deferred Tax,398,2618,647,quarterly_cash_flow
+Deferred Income Tax,398,2618,647,quarterly_cash_flow
+Net Business Purchase And Sale,388,2569,855,quarterly_cash_flow
+Common Stock Dividend Paid,380,2500,701,quarterly_cash_flow
+Operating Gains Losses,379,2504,746,quarterly_cash_flow
+Net Investment Purchase And Sale,369,2421,680,quarterly_cash_flow
+Effect Of Exchange Rate Changes,365,2400,581,quarterly_cash_flow
+Change In Other Working Capital,352,2316,615,quarterly_cash_flow
+Purchase Of Business,342,2267,809,quarterly_cash_flow
+Change In Payable,340,2253,571,quarterly_cash_flow
+Change In Account Payable,327,2167,552,quarterly_cash_flow
+Sale Of Investment,327,2148,672,quarterly_cash_flow
+Net PPE Purchase And Sale,318,2091,537,quarterly_cash_flow
+Purchase Of Investment,311,2034,566,quarterly_cash_flow
+Changes In Account Receivables,293,1929,491,quarterly_cash_flow
+Net Short Term Debt Issuance,289,1910,664,quarterly_cash_flow
+Change In Inventory,271,1802,450,quarterly_cash_flow
+Purchase Of PPE,268,1760,431,quarterly_cash_flow
+Income Tax Paid Supplemental Data,243,1605,475,quarterly_cash_flow
+Interest Paid Supplemental Data,243,1608,462,quarterly_cash_flow
+Capital Expenditure Reported,232,1537,388,quarterly_cash_flow
+Proceeds From Stock Option Exercised,227,1485,397,quarterly_cash_flow
+Change In Other Current Assets,219,1447,370,quarterly_cash_flow
+Depreciation,212,1407,434,quarterly_cash_flow
+Sale Of Business,195,1300,589,quarterly_cash_flow
+Asset Impairment Charge,187,1250,563,quarterly_cash_flow
+Gain Loss On Investment Securities,180,1186,401,quarterly_cash_flow
+Change In Accrued Expense,180,1193,310,quarterly_cash_flow
+Change In Other Current Liabilities,172,1136,295,quarterly_cash_flow
+Issuance Of Capital Stock,162,1064,373,quarterly_cash_flow
+Change In Prepaid Assets,154,1012,253,quarterly_cash_flow
+Short Term Debt Issuance,149,993,476,quarterly_cash_flow
+Short Term Debt Payments,146,975,474,quarterly_cash_flow
+Amortization Cash Flow,146,974,309,quarterly_cash_flow
+Amortization Of Intangibles,145,967,307,quarterly_cash_flow
+Common Stock Issuance,144,953,323,quarterly_cash_flow
+Earnings Losses From Equity Investments,139,930,263,quarterly_cash_flow
+Sale Of PPE,135,893,307,quarterly_cash_flow
+Gain Loss On Sale Of Business,115,770,369,quarterly_cash_flow
+Change In Tax Payable,102,677,197,quarterly_cash_flow
+Change In Income Tax Payable,102,677,197,quarterly_cash_flow
+Provisionand Write Offof Assets,87,571,159,quarterly_cash_flow
+Pension And Employee Benefit Expense,74,494,168,quarterly_cash_flow
+Gain Loss On Sale Of PPE,62,412,148,quarterly_cash_flow
+Dividend Received Cfo,62,421,145,quarterly_cash_flow
+Net Intangibles Purchase And Sale,58,382,139,quarterly_cash_flow
+Purchase Of Intangibles,56,368,133,quarterly_cash_flow
+Preferred Stock Dividend Paid,44,286,82,quarterly_cash_flow
+Unrealized Gain Loss On Investment Securities,44,289,137,quarterly_cash_flow
+Net Foreign Currency Exchange Gain Loss,44,291,88,quarterly_cash_flow
+Dividends Received Cfi,41,275,106,quarterly_cash_flow
+Net Preferred Stock Issuance,40,262,123,quarterly_cash_flow
+Other Cash Adjustment Outside Changein Cash,32,219,96,quarterly_cash_flow
+Cash From Discontinued Operating Activities,31,213,92,quarterly_cash_flow
+Preferred Stock Payments,31,203,103,quarterly_cash_flow
+Net Investment Properties Purchase And Sale,30,199,53,quarterly_cash_flow
+Purchase Of Investment Properties,27,178,46,quarterly_cash_flow
+Sale Of Investment Properties,26,174,58,quarterly_cash_flow
+Amortization Of Securities,24,157,38,quarterly_cash_flow
+Cash From Discontinued Investing Activities,21,145,69,quarterly_cash_flow
+Preferred Stock Issuance,20,125,58,quarterly_cash_flow
+Change In Interest Payable,19,130,39,quarterly_cash_flow
+Cash From Discontinued Financing Activities,9,63,29,quarterly_cash_flow
+Sale Of Intangibles,8,55,29,quarterly_cash_flow
+Cash Flow From Discontinued Operation,6,42,19,quarterly_cash_flow
+Other Cash Adjustment Inside Changein Cash,5,35,17,quarterly_cash_flow
+Excess Tax Benefit From Stock Based Compensation,5,31,6,quarterly_cash_flow
+Depletion,5,32,9,quarterly_cash_flow
+Taxes Refund Paid,5,34,11,quarterly_cash_flow
+Dividend Paid Cfo,2,14,11,quarterly_cash_flow
+Interest Paid Cff,2,14,11,quarterly_cash_flow
+Cash Flowsfromusedin Operating Activities Direct,1,6,1,quarterly_cash_flow
+Classesof Cash Payments,1,6,1,quarterly_cash_flow
+Paymentson Behalfof Employees,1,6,1,quarterly_cash_flow
+Other Cash Paymentsfrom Operating Activities,1,6,1,quarterly_cash_flow
+Classesof Cash Receiptsfrom Operating Activities,1,6,1,quarterly_cash_flow
+Other Cash Receiptsfrom Operating Activities,1,6,1,quarterly_cash_flow
+Interest Received Cfi,1,7,2,quarterly_cash_flow
+Interest Paid Cfo,1,7,2,quarterly_cash_flow
+date,500,2384,0,financials
+Tax Effect Of Unusual Items,500,2384,384,financials
+Tax Rate For Calcs,500,2384,384,financials
+Net Income From Continuing Operation Net Minority Interest,500,2384,384,financials
+Diluted NI Availto Com Stockholders,500,2384,384,financials
+Normalized Income,500,2384,384,financials
+Net Income From Continuing And Discontinued Operation,500,2384,384,financials
+Net Income,500,2384,384,financials
+Diluted EPS,500,2384,384,financials
+Basic Average Shares,500,2384,384,financials
+Net Income Common Stockholders,500,2384,384,financials
+Basic EPS,500,2384,384,financials
+Diluted Average Shares,500,2384,384,financials
+Net Income Continuous Operations,500,2384,384,financials
+Net Income Including Noncontrolling Interests,500,2384,384,financials
+Total Revenue,500,2384,384,financials
+Operating Revenue,500,2384,384,financials
+ticker,500,2384,0,financials
+statement_type,500,2384,0,financials
+Pretax Income,500,2384,384,financials
+Reconciled Depreciation,496,2364,380,financials
+Tax Provision,494,2355,380,financials
+Net Interest Income,491,2345,387,financials
+Interest Expense,477,2278,393,financials
+Total Expenses,476,2264,360,financials
+EBIT,474,2255,359,financials
+Net Non Operating Interest Income Expense,467,2225,363,financials
+Other Income Expense,462,2201,375,financials
+Selling General And Administration,460,2192,365,financials
+Operating Expense,455,2165,345,financials
+Normalized EBITDA,454,2160,344,financials
+Operating Income,454,2160,344,financials
+EBITDA,454,2160,344,financials
+Interest Expense Non Operating,453,2158,369,financials
+Reconciled Cost Of Revenue,449,2135,339,financials
+Cost Of Revenue,449,2135,339,financials
+Gross Profit,449,2135,339,financials
+Total Unusual Items Excluding Goodwill,444,2135,407,financials
+Total Unusual Items,444,2135,407,financials
+Special Income Charges,428,2058,427,financials
+Other Non Operating Income Expenses,407,1939,358,financials
+Total Operating Income As Reported,374,1772,280,financials
+Interest Income,343,1643,338,financials
+Interest Income Non Operating,313,1495,307,financials
+Minority Interests,295,1422,279,financials
+Restructuring And Mergern Acquisition,263,1268,300,financials
+General And Administrative Expense,260,1251,264,financials
+Gain On Sale Of Security,259,1251,290,financials
+Other Special Charges,257,1253,514,financials
+Depreciation And Amortization In Income Statement,248,1198,225,financials
+Depreciation Amortization Depletion Income Statement,241,1165,220,financials
+Other Gand A,237,1138,288,financials
+Impairment Of Capital Assets,202,981,303,financials
+Other Operating Expenses,193,936,241,financials
+Research And Development,173,818,138,financials
+Gain On Sale Of Business,157,761,213,financials
+Earnings From Equity Interest,157,765,196,financials
+Amortization,129,621,124,financials
+Net Income Discontinuous Operations,127,622,204,financials
+Amortization Of Intangibles Income Statement,123,593,120,financials
+Selling And Marketing Expense,123,588,112,financials
+Otherunder Preferred Stock Dividend,122,594,193,financials
+Salaries And Wages,119,582,156,financials
+Write Off,118,577,188,financials
+Gain On Sale Of Ppe,114,559,176,financials
+Preferred Stock Dividends,92,450,139,financials
+Total Other Finance Cost,69,341,110,financials
+Average Dilution Earnings,69,338,128,financials
+Earnings From Equity Interest Net Of Tax,66,317,60,financials
+Other Taxes,54,260,56,financials
+Depreciation Income Statement,41,204,47,financials
+Rent Expense Supplemental,37,178,40,financials
+Occupancy And Equipment,23,115,28,financials
+Other Non Interest Expense,23,115,23,financials
+Net Policyholder Benefits And Claims,21,100,16,financials
+Loss Adjustment Expense,21,100,16,financials
+Professional Expense And Contract Services Expense,20,100,24,financials
+Insurance And Claims,18,89,29,financials
+Provision For Doubtful Accounts,17,83,21,financials
+Rent And Landing Fees,16,76,17,financials
+Policyholder Benefits Gross,15,71,14,financials
+Policyholder Benefits Ceded,11,52,10,financials
+Excise Taxes,6,30,6,financials
+Depletion Income Statement,3,14,6,financials
+Net Income Extraordinary,3,15,8,financials
+Securities Amortization,2,10,4,financials
+Net Income From Tax Loss Carryforward,1,5,1,financials
+date,500,3102,0,quarterly_financials
+Tax Effect Of Unusual Items,500,3102,602,quarterly_financials
+Tax Rate For Calcs,500,3102,602,quarterly_financials
+Net Income From Continuing Operation Net Minority Interest,500,3102,602,quarterly_financials
+Diluted Average Shares,500,3102,602,quarterly_financials
+Normalized Income,500,3102,602,quarterly_financials
+Net Income From Continuing And Discontinued Operation,500,3102,602,quarterly_financials
+Net Income,500,3102,602,quarterly_financials
+Net Income Including Noncontrolling Interests,500,3102,602,quarterly_financials
+Net Income Continuous Operations,500,3102,602,quarterly_financials
+Basic Average Shares,500,3102,602,quarterly_financials
+Net Income Common Stockholders,500,3102,602,quarterly_financials
+Diluted NI Availto Com Stockholders,500,3102,602,quarterly_financials
+Basic EPS,500,3102,602,quarterly_financials
+Diluted EPS,500,3102,602,quarterly_financials
+Total Revenue,500,3102,602,quarterly_financials
+Operating Revenue,500,3102,602,quarterly_financials
+statement_type,500,3102,0,quarterly_financials
+ticker,500,3102,0,quarterly_financials
+Pretax Income,500,3102,602,quarterly_financials
+Tax Provision,493,3058,593,quarterly_financials
+Reconciled Depreciation,489,3038,593,quarterly_financials
+Net Interest Income,488,3035,595,quarterly_financials
+Total Expenses,476,2949,569,quarterly_financials
+EBIT,473,2931,566,quarterly_financials
+Net Non Operating Interest Income Expense,464,2882,562,quarterly_financials
+Selling General And Administration,459,2855,604,quarterly_financials
+Interest Expense,457,2850,590,quarterly_financials
+Operating Expense,455,2824,552,quarterly_financials
+Operating Income,455,2826,554,quarterly_financials
+EBITDA,454,2819,549,quarterly_financials
+Normalized EBITDA,454,2819,549,quarterly_financials
+Other Income Expense,453,2819,567,quarterly_financials
+Gross Profit,450,2793,546,quarterly_financials
+Reconciled Cost Of Revenue,450,2793,546,quarterly_financials
+Cost Of Revenue,450,2793,546,quarterly_financials
+Interest Expense Non Operating,433,2697,557,quarterly_financials
+Total Unusual Items Excluding Goodwill,393,2485,625,quarterly_financials
+Total Unusual Items,393,2485,625,quarterly_financials
+Other Non Operating Income Expenses,389,2434,513,quarterly_financials
+Total Operating Income As Reported,374,2305,444,quarterly_financials
+Special Income Charges,352,2242,598,quarterly_financials
+Interest Income,296,1835,387,quarterly_financials
+Minority Interests,269,1703,385,quarterly_financials
+Interest Income Non Operating,266,1646,345,quarterly_financials
+General And Administrative Expense,248,1568,460,quarterly_financials
+Depreciation And Amortization In Income Statement,239,1495,310,quarterly_financials
+Depreciation Amortization Depletion Income Statement,233,1458,306,quarterly_financials
+Gain On Sale Of Security,215,1369,358,quarterly_financials
+Restructuring And Mergern Acquisition,211,1349,391,quarterly_financials
+Other Gand A,203,1272,352,quarterly_financials
+Research And Development,169,1053,212,quarterly_financials
+Other Operating Expenses,166,1049,279,quarterly_financials
+Other Special Charges,151,983,445,quarterly_financials
+Earnings From Equity Interest,122,784,200,quarterly_financials
+Selling And Marketing Expense,116,718,150,quarterly_financials
+Amortization,116,736,172,quarterly_financials
+Salaries And Wages,114,750,346,quarterly_financials
+Amortization Of Intangibles Income Statement,111,704,168,quarterly_financials
+Impairment Of Capital Assets,104,679,341,quarterly_financials
+Gain On Sale Of Business,104,672,244,quarterly_financials
+Otherunder Preferred Stock Dividend,84,545,157,quarterly_financials
+Write Off,83,548,225,quarterly_financials
+Gain On Sale Of Ppe,73,485,167,quarterly_financials
+Net Income Discontinuous Operations,68,444,150,quarterly_financials
+Preferred Stock Dividends,68,433,117,quarterly_financials
+Total Other Finance Cost,64,411,153,quarterly_financials
+Earnings From Equity Interest Net Of Tax,60,377,82,quarterly_financials
+Average Dilution Earnings,53,345,140,quarterly_financials
+Other Taxes,45,287,67,quarterly_financials
+Rent Expense Supplemental,34,208,46,quarterly_financials
+Depreciation Income Statement,33,207,54,quarterly_financials
+Other Non Interest Expense,23,148,33,quarterly_financials
+Loss Adjustment Expense,22,130,21,quarterly_financials
+Net Policyholder Benefits And Claims,22,130,21,quarterly_financials
+Occupancy And Equipment,22,142,36,quarterly_financials
+Professional Expense And Contract Services Expense,19,120,25,quarterly_financials
+Provision For Doubtful Accounts,16,97,23,quarterly_financials
+Insurance And Claims,15,96,29,quarterly_financials
+Rent And Landing Fees,14,81,12,quarterly_financials
+Policyholder Benefits Gross,10,59,17,quarterly_financials
+Excise Taxes,5,33,8,quarterly_financials
+Policyholder Benefits Ceded,4,24,4,quarterly_financials
+Net Income From Tax Loss Carryforward,2,14,11,quarterly_financials
+Depletion Income Statement,2,11,1,quarterly_financials
+Net Income Extraordinary,1,7,4,quarterly_financials
+Securities Amortization,1,5,0,quarterly_financials
+date,500,2384,0,income_stmt
+Tax Effect Of Unusual Items,500,2384,384,income_stmt
+Tax Rate For Calcs,500,2384,384,income_stmt
+Net Income From Continuing Operation Net Minority Interest,500,2384,384,income_stmt
+Diluted NI Availto Com Stockholders,500,2384,384,income_stmt
+Normalized Income,500,2384,384,income_stmt
+Net Income From Continuing And Discontinued Operation,500,2384,384,income_stmt
+Net Income,500,2384,384,income_stmt
+Diluted EPS,500,2384,384,income_stmt
+Basic Average Shares,500,2384,384,income_stmt
+Net Income Common Stockholders,500,2384,384,income_stmt
+Basic EPS,500,2384,384,income_stmt
+Diluted Average Shares,500,2384,384,income_stmt
+Net Income Continuous Operations,500,2384,384,income_stmt
+Net Income Including Noncontrolling Interests,500,2384,384,income_stmt
+Total Revenue,500,2384,384,income_stmt
+Operating Revenue,500,2384,384,income_stmt
+ticker,500,2384,0,income_stmt
+statement_type,500,2384,0,income_stmt
+Pretax Income,500,2384,384,income_stmt
+Reconciled Depreciation,496,2364,380,income_stmt
+Tax Provision,494,2355,380,income_stmt
+Net Interest Income,491,2345,387,income_stmt
+Interest Expense,477,2278,393,income_stmt
+Total Expenses,476,2264,360,income_stmt
+EBIT,474,2255,359,income_stmt
+Net Non Operating Interest Income Expense,467,2225,363,income_stmt
+Other Income Expense,462,2201,375,income_stmt
+Selling General And Administration,460,2192,365,income_stmt
+Operating Expense,455,2165,345,income_stmt
+Normalized EBITDA,454,2160,344,income_stmt
+Operating Income,454,2160,344,income_stmt
+EBITDA,454,2160,344,income_stmt
+Interest Expense Non Operating,453,2158,369,income_stmt
+Reconciled Cost Of Revenue,449,2135,339,income_stmt
+Cost Of Revenue,449,2135,339,income_stmt
+Gross Profit,449,2135,339,income_stmt
+Total Unusual Items Excluding Goodwill,444,2135,407,income_stmt
+Total Unusual Items,444,2135,407,income_stmt
+Special Income Charges,428,2058,427,income_stmt
+Other Non Operating Income Expenses,407,1939,358,income_stmt
+Total Operating Income As Reported,374,1772,280,income_stmt
+Interest Income,343,1643,338,income_stmt
+Interest Income Non Operating,313,1495,307,income_stmt
+Minority Interests,295,1422,279,income_stmt
+Restructuring And Mergern Acquisition,263,1268,300,income_stmt
+General And Administrative Expense,260,1251,264,income_stmt
+Gain On Sale Of Security,259,1251,290,income_stmt
+Other Special Charges,257,1253,514,income_stmt
+Depreciation And Amortization In Income Statement,248,1198,225,income_stmt
+Depreciation Amortization Depletion Income Statement,241,1165,220,income_stmt
+Other Gand A,237,1138,288,income_stmt
+Impairment Of Capital Assets,202,981,303,income_stmt
+Other Operating Expenses,193,936,241,income_stmt
+Research And Development,173,818,138,income_stmt
+Gain On Sale Of Business,157,761,213,income_stmt
+Earnings From Equity Interest,157,765,196,income_stmt
+Amortization,129,621,124,income_stmt
+Net Income Discontinuous Operations,127,622,204,income_stmt
+Amortization Of Intangibles Income Statement,123,593,120,income_stmt
+Selling And Marketing Expense,123,588,112,income_stmt
+Otherunder Preferred Stock Dividend,122,594,193,income_stmt
+Salaries And Wages,119,582,156,income_stmt
+Write Off,118,577,188,income_stmt
+Gain On Sale Of Ppe,114,559,176,income_stmt
+Preferred Stock Dividends,92,450,139,income_stmt
+Total Other Finance Cost,69,341,110,income_stmt
+Average Dilution Earnings,69,338,128,income_stmt
+Earnings From Equity Interest Net Of Tax,66,317,60,income_stmt
+Other Taxes,54,260,56,income_stmt
+Depreciation Income Statement,41,204,47,income_stmt
+Rent Expense Supplemental,37,178,40,income_stmt
+Occupancy And Equipment,23,115,28,income_stmt
+Other Non Interest Expense,23,115,23,income_stmt
+Net Policyholder Benefits And Claims,21,100,16,income_stmt
+Loss Adjustment Expense,21,100,16,income_stmt
+Professional Expense And Contract Services Expense,20,100,24,income_stmt
+Insurance And Claims,18,89,29,income_stmt
+Provision For Doubtful Accounts,17,83,21,income_stmt
+Rent And Landing Fees,16,76,17,income_stmt
+Policyholder Benefits Gross,15,71,14,income_stmt
+Policyholder Benefits Ceded,11,52,10,income_stmt
+Excise Taxes,6,30,6,income_stmt
+Depletion Income Statement,3,14,6,income_stmt
+Net Income Extraordinary,3,15,8,income_stmt
+Securities Amortization,2,10,4,income_stmt
+Net Income From Tax Loss Carryforward,1,5,1,income_stmt
+date,500,3102,0,quarterly_income_stmt
+Tax Effect Of Unusual Items,500,3102,602,quarterly_income_stmt
+Tax Rate For Calcs,500,3102,602,quarterly_income_stmt
+Net Income From Continuing Operation Net Minority Interest,500,3102,602,quarterly_income_stmt
+Diluted Average Shares,500,3102,602,quarterly_income_stmt
+Normalized Income,500,3102,602,quarterly_income_stmt
+Net Income From Continuing And Discontinued Operation,500,3102,602,quarterly_income_stmt
+Net Income,500,3102,602,quarterly_income_stmt
+Net Income Including Noncontrolling Interests,500,3102,602,quarterly_income_stmt
+Net Income Continuous Operations,500,3102,602,quarterly_income_stmt
+Basic Average Shares,500,3102,602,quarterly_income_stmt
+Net Income Common Stockholders,500,3102,602,quarterly_income_stmt
+Diluted NI Availto Com Stockholders,500,3102,602,quarterly_income_stmt
+Basic EPS,500,3102,602,quarterly_income_stmt
+Diluted EPS,500,3102,602,quarterly_income_stmt
+Total Revenue,500,3102,602,quarterly_income_stmt
+Operating Revenue,500,3102,602,quarterly_income_stmt
+statement_type,500,3102,0,quarterly_income_stmt
+ticker,500,3102,0,quarterly_income_stmt
+Pretax Income,500,3102,602,quarterly_income_stmt
+Tax Provision,493,3058,593,quarterly_income_stmt
+Reconciled Depreciation,489,3038,593,quarterly_income_stmt
+Net Interest Income,488,3035,595,quarterly_income_stmt
+Total Expenses,476,2949,569,quarterly_income_stmt
+EBIT,473,2931,566,quarterly_income_stmt
+Net Non Operating Interest Income Expense,464,2882,562,quarterly_income_stmt
+Selling General And Administration,459,2855,604,quarterly_income_stmt
+Interest Expense,457,2850,590,quarterly_income_stmt
+Operating Expense,455,2824,552,quarterly_income_stmt
+Operating Income,455,2826,554,quarterly_income_stmt
+EBITDA,454,2819,549,quarterly_income_stmt
+Normalized EBITDA,454,2819,549,quarterly_income_stmt
+Other Income Expense,453,2819,567,quarterly_income_stmt
+Gross Profit,450,2793,546,quarterly_income_stmt
+Reconciled Cost Of Revenue,450,2793,546,quarterly_income_stmt
+Cost Of Revenue,450,2793,546,quarterly_income_stmt
+Interest Expense Non Operating,433,2697,557,quarterly_income_stmt
+Total Unusual Items Excluding Goodwill,393,2485,625,quarterly_income_stmt
+Total Unusual Items,393,2485,625,quarterly_income_stmt
+Other Non Operating Income Expenses,389,2434,513,quarterly_income_stmt
+Total Operating Income As Reported,374,2305,444,quarterly_income_stmt
+Special Income Charges,352,2242,598,quarterly_income_stmt
+Interest Income,296,1835,387,quarterly_income_stmt
+Minority Interests,269,1703,385,quarterly_income_stmt
+Interest Income Non Operating,266,1646,345,quarterly_income_stmt
+General And Administrative Expense,248,1568,460,quarterly_income_stmt
+Depreciation And Amortization In Income Statement,239,1495,310,quarterly_income_stmt
+Depreciation Amortization Depletion Income Statement,233,1458,306,quarterly_income_stmt
+Gain On Sale Of Security,215,1369,358,quarterly_income_stmt
+Restructuring And Mergern Acquisition,211,1349,391,quarterly_income_stmt
+Other Gand A,203,1272,352,quarterly_income_stmt
+Research And Development,169,1053,212,quarterly_income_stmt
+Other Operating Expenses,166,1049,279,quarterly_income_stmt
+Other Special Charges,151,983,445,quarterly_income_stmt
+Earnings From Equity Interest,122,784,200,quarterly_income_stmt
+Selling And Marketing Expense,116,718,150,quarterly_income_stmt
+Amortization,116,736,172,quarterly_income_stmt
+Salaries And Wages,114,750,346,quarterly_income_stmt
+Amortization Of Intangibles Income Statement,111,704,168,quarterly_income_stmt
+Impairment Of Capital Assets,104,679,341,quarterly_income_stmt
+Gain On Sale Of Business,104,672,244,quarterly_income_stmt
+Otherunder Preferred Stock Dividend,84,545,157,quarterly_income_stmt
+Write Off,83,548,225,quarterly_income_stmt
+Gain On Sale Of Ppe,73,485,167,quarterly_income_stmt
+Net Income Discontinuous Operations,68,444,150,quarterly_income_stmt
+Preferred Stock Dividends,68,433,117,quarterly_income_stmt
+Total Other Finance Cost,64,411,153,quarterly_income_stmt
+Earnings From Equity Interest Net Of Tax,60,377,82,quarterly_income_stmt
+Average Dilution Earnings,53,345,140,quarterly_income_stmt
+Other Taxes,45,287,67,quarterly_income_stmt
+Rent Expense Supplemental,34,208,46,quarterly_income_stmt
+Depreciation Income Statement,33,207,54,quarterly_income_stmt
+Other Non Interest Expense,23,148,33,quarterly_income_stmt
+Loss Adjustment Expense,22,130,21,quarterly_income_stmt
+Net Policyholder Benefits And Claims,22,130,21,quarterly_income_stmt
+Occupancy And Equipment,22,142,36,quarterly_income_stmt
+Professional Expense And Contract Services Expense,19,120,25,quarterly_income_stmt
+Provision For Doubtful Accounts,16,97,23,quarterly_income_stmt
+Insurance And Claims,15,96,29,quarterly_income_stmt
+Rent And Landing Fees,14,81,12,quarterly_income_stmt
+Policyholder Benefits Gross,10,59,17,quarterly_income_stmt
+Excise Taxes,5,33,8,quarterly_income_stmt
+Policyholder Benefits Ceded,4,24,4,quarterly_income_stmt
+Net Income From Tax Loss Carryforward,2,14,11,quarterly_income_stmt
+Depletion Income Statement,2,11,1,quarterly_income_stmt
+Net Income Extraordinary,1,7,4,quarterly_income_stmt
+Securities Amortization,1,5,0,quarterly_income_stmt
