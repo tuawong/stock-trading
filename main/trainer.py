@@ -54,7 +54,8 @@ def top_bottom_spread_by_date(
         date_col="date",
         n_buckets=10, 
         benchmark="top_minus_bottom", ## Can also be top minus mean
-        top_N = None ## If not none, switch to top N average instead of top decile
+        top_N = None, ## If not none, switch to top N average instead of top decile
+        groupby_col=None
     ):
     """
     Computes equal-weight top-decile minus bottom-decile spread per day, then averages.
@@ -89,13 +90,15 @@ def top_bottom_spread_by_date(
             raise ValueError(f"Unknown benchmark: {benchmark}")
            
         return top - bot
-
-    daily = dfp.groupby(date_col, sort=True).apply(_spread)
+    
+    if groupby_col is None:
+        groupby_col = date_col
+    daily = dfp.groupby(groupby_col, sort=True).apply(_spread)
     avg = float(np.nanmean(daily.values))
     return daily, avg
 
 
-def spearman_ic_by_date(df_pred: pd.DataFrame, pred_col="pred", y_col="target", date_col="date"):
+def spearman_ic_by_date(df_pred: pd.DataFrame, pred_col="pred", y_col="target", date_col="date", groupby_col=None):
     """
     Spearman information coefficient (rank correlation) computed cross-sectionally per date.
     Returns:
@@ -110,8 +113,10 @@ def spearman_ic_by_date(df_pred: pd.DataFrame, pred_col="pred", y_col="target", 
         if len(g) < 20:
             return np.nan
         return g[pred_col].corr(g[y_col], method="spearman")
-
-    daily = dfp.groupby(date_col, sort=True).apply(_ic)
+    
+    if groupby_col is None:
+        groupby_col = date_col
+    daily = dfp.groupby(groupby_col, sort=True).apply(_ic)
     mean_ic = float(np.nanmean(daily.values))
     return daily, mean_ic
 

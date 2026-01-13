@@ -211,3 +211,5 @@ yf_dumps/
 data/
 Test/
 artifacts/
+model/
+reference/
